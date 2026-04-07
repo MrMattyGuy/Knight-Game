@@ -4,4 +4,4 @@ Click the link below to visit the releases page and download the latest version 
 <p align="center"><img src="assets/sprites/play_store_512.png" width="200"></p>
 <h1 align="center">Knight Game</h1>
 <h2 align="center">Releases:</h2>
-<p align="center"><a href="https://github.com/MrMattyGuy/Knight-Game/releases">04/07</a></p>
+<p align="center"><a href="https://github.com/MrMattyGuy/Knight-Game/releases/tag/v1.0.0">04/07</a></p>
